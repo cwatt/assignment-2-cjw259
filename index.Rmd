@@ -1,7 +1,5 @@
 ---
 title: "Github website"
-author: "Cassandra Wattenburger"
-date: "9/28/2020"
 output: html_document
 ---
 

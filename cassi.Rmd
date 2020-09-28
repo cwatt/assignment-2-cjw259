@@ -1,7 +1,5 @@
 ---
 title: "Cassi"
-author: "Cassandra Wattenburger"
-date: "9/28/2020"
 output: html_document
 ---
 
@@ -11,4 +9,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * I grew up in Washington state
 * I'm in the Soil Science PhD program at Cornell
-* I want to go on a vacation to Europe once the pandemic is over.
+* I want to go on a vacation to Germany once the pandemic is over.
