@@ -1,0 +1,14 @@
+---
+title: "Cassi"
+author: "Cassandra Wattenburger"
+date: "9/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I grew up in Washington state
+* I'm in the Soil Science PhD program at Cornell
+* I want to go on a vacation to Europe once the pandemic is over.
