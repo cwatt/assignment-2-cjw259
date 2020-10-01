@@ -9,6 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Owner: Cassi Wattenburger <br>
 Collaborator: Adam Wild <br>
+[Adam's Github](https://github.com/adwild)
 
 ![](http://minimalistbaker.com/wp-content/uploads/2015/08/AMAZING-5-Ingredient-Vanilla-Coconut-Ice-Cream-Incredibly-simple-perfectly-sweet-INSANELY-creamy-vegan-glutenfree-icecream-dessert-recipe-vanilla-coconuticecream-coconut.jpg)
 *Mmm, ice cream.*
