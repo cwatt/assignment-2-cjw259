@@ -1,5 +1,6 @@
-output_dir: "."
+name: "cassi-website"
 navbar:
+  title: "A collaborative website"
   left:
     - text: "Home"
       href: index.html
@@ -7,3 +8,7 @@ navbar:
       href: cassi.html
     - text: "Adam"
       href: adam.html
+output_dir: "."
+output:
+  html_document:
+    theme: Minima
